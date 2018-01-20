@@ -1,3 +1,6 @@
+#The goal of the below data analysis is to show the number of UFO sightings in the following months, broken down into states
+
+
 #Checking current working directory
 getwd()
 
@@ -12,7 +15,6 @@ library(ggplot2)
 library(plyr)
 library(scales)
 
-#The goal of the below data analysis is to show the number of UFO sightings in the following months, broken down into states
 
 
 #Reading datafile "ufo_report.tsv" into a data frame
